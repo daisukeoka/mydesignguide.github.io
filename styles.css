@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Noto Sans Japanese', Kosugi, sans-serif;
+    background-color: beige;
+  }
+  
+  section {
+    background-color: #fff;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  
+  .wrapper {
+    width: 30%;
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .Fonts h2 {
+    text-decoration: underline;
+  }
+  
+  .color01 {
+    background-color: #013D73;
+    color: #fff;
+  }
+  .color02 {
+    background-color: #EBF4F4;
+  }
+  .color03 {
+    background-color: #2da042;
+    color: #fff;
+  }
+  .color04 {
+    background-color: #F78066;
+    color: #fff;
+  }
+  
